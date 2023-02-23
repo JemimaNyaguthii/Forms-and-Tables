@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(189, 150, 150);
+    
+}
+#helloemoji{
+    float: inline-start;
+    width: 42px;
+    height: 42px;
+}    
+#image{
+    border-radius: 10px;
+    width: 100%;
+    margin-right:80%;
+    height:55%   
+}
+.space{
+    height: 100vh;
+    width: 1200px;
+    display: flex;
+    gap: 96px;
+
+}
+#sign{
+    font-weight: bold;
+}
+.form{
+    align-items: center;
+   
+    text-align: left;
+
+}
+
+table,tr,th,td{
+    border-style: ridge;
+    border-spacing: 3px;
+    background-color: rgb(189, 150, 150);
+    width: 70%;
+    border-color: rgb(189, 150, 150);
+}
+body{
+    background-color: rgb(189,150,150);
+}
+
